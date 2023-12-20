@@ -1,0 +1,4 @@
+                program_name                          login_name  memory_usage  cpu_time  session_id              login_time       host_name        client_interface_name   status last_request_start_time   last_request_end_time
+.Net SqlClient Data Provider                                  sa             4       328          62 2022-06-14 09:16:41.843 DESKTOP-L3N73RO .Net SqlClient Data Provider sleeping 2022-06-14 09:49:18.263 2022-06-14 09:49:18.263
+               SQLServerCEIP NT SERVICE\SQLTELEMETRY$KRIARSERVER             4         0          52 2022-06-14 12:22:07.373 DESKTOP-L3N73RO .Net SqlClient Data Provider sleeping 2022-06-14 12:22:07.370 2022-06-14 12:22:07.373
+                      Python                  DESKTOP-L3N73RO\KR             3         0          51 2022-06-14 12:24:53.650 DESKTOP-L3N73RO                         ODBC  running 2022-06-14 12:24:53.660 2022-06-14 12:24:53.650

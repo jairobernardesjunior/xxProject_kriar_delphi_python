@@ -1,0 +1,11 @@
+DEBUG 2022-06-30 16:20:30,383 - ++++++++++++++ inicio
+DEBUG 2022-06-30 16:20:30,386 - while
+DEBUG 2022-06-30 16:20:30,602 - for line
+DEBUG 2022-06-30 16:20:30,605 - if estado
+DEBUG 2022-06-30 16:20:38,861 - for line
+DEBUG 2022-06-30 16:20:38,866 - if estado
+DEBUG 2022-06-30 16:20:43,556 - for line
+DEBUG 2022-06-30 16:20:43,560 - if estado
+DEBUG 2022-06-30 16:21:03,165 - hora: 162103 - horaFim: 200000 - sleep: 3
+
+DEBUG 2022-06-30 16:21:03,165 - while

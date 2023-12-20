@@ -1,0 +1,2 @@
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+>kr                    console             1  Ativo           5  30/06/2022 07:30
